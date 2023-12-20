@@ -11,4 +11,6 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/cont
 ```
 
 - para testar:
-  - curl -H 'Host: myweb.packt.com' http://a47e740013eb2482fa76c6492df3c068-b5005b785ab82a3b.elb.us-east-2.amazonaws.com/login 
+  - curl -H 'Host: myweb.packt.com' http://a47e740013eb2482fa76c6492df3c068-b5005b785ab82a3b.elb.us-east-2.amazonaws.com/login
+ 
+    
